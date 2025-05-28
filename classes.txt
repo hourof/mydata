@@ -1,0 +1,11 @@
+person
+para
+monster
+jabe
+alter
+boos
+advance
+retreat
+up
+down
+door
